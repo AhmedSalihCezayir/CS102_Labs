@@ -1,0 +1,35 @@
+import java.awt.Graphics;
+/**
+ * A simple Circle class!
+ */
+public class Circle extends SShape
+{
+   // properties
+   int radius;
+
+   // constructors
+   public Circle( int radius) {
+      this.radius = radius;
+   }
+   
+   // methods
+   public double getArea() {
+      return 3.1415 * radius * radius;
+   }
+   
+   public String toString() {
+      return "Circle with radius " + radius + " Center location: " + " ( " + x + "," + y + " )" + " - Selection: " + isSelected;
+   }
+   
+   public Shape contains( int x, int y) {
+      if (((x - getX()) * (x - getX()) + (y - getY()) * (y - getY())) <= radius * radius)
+         return new Circle ( radius);
+      else 
+         return null;
+   }
+   
+   public void draw( Graphics g) {
+      g.drawOval(getX() - (radius / 2), getY() - (radius / 2), radius, radius);
+   } 
+   
+}

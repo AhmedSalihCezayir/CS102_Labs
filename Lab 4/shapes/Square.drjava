@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="class/" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="SShape.java" package="shapes" timestamp="06-Apr-2020 22:17:44">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ShapeContainer.java" package="" timestamp="06-Apr-2020 22:05:53">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Locatable.java" package="" timestamp="06-Apr-2020 21:16:57">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Selectable.java" package="" timestamp="06-Apr-2020 21:16:57">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Shape.java" package="" timestamp="06-Apr-2020 21:16:57">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Square.java" package="" timestamp="06-Apr-2020 21:16:57">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ShapeTester.java" package="" timestamp="06-Apr-2020 21:16:57">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Drawable.java" package="" timestamp="06-Apr-2020 21:25:38">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Circle.java" package="" timestamp="06-Apr-2020 21:39:25">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Rectangle.java" package="" timestamp="06-Apr-2020 21:40:26">
+        <select from="16" to="16"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
